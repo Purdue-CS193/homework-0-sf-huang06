@@ -1,3 +1,7 @@
+# Sophia's First CS193 Homework
+- Teaches necessary skills that aren't explicitly taught elsewhere in the CS curriculums
+- Instructors seem pretty chill
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
